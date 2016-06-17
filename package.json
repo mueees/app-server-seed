@@ -1,0 +1,28 @@
+{
+  "name": "app-server-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mueees/app-server-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mueees/app-server-seed/issues"
+  },
+  "homepage": "https://github.com/mueees/app-server-seed#readme",
+  "dependencies": {
+    "app-core": "git+https://github.com/mueees/app-core.git",
+    "chai": "3.5.0",
+    "eslint": "^2.13.0",
+    "lodash": "^4.13.1",
+    "mongoose": "^4.4.20",
+    "nconf": "^0.8.4",
+    "mocha": "^2.5.3"
+  }
+}
